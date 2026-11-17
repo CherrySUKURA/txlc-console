@@ -1,0 +1,13 @@
+.DS_Store
+.dev/
+.env
+.env.*
+node_modules/
+dist/
+build/
+*.log
+.Codex/
+.claudeignore
+CLAUDE.md
+AGENTS.md
+HANDOFF.md
